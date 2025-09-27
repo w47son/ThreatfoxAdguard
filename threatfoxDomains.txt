@@ -31,6 +31,7 @@
 ||0e.8-fr.ru^
 ||0eftob9vxa877.life^
 ||0ei4jxf0cszgd.life^
+||0f.padj.ru^
 ||0fq0fw4osfldp.life^
 ||0gh9do46p1l2y.life^
 ||0j62jm3djgxe7.life^
@@ -48,6 +49,7 @@
 ||0x503.3738.org^
 ||0.x.exifit.eu.org^
 ||0youdp14i4r4h5.org^
+||0z.pihp.ru^
 ||0zq.802d.ru^
 ||100.56.171.34.bc.googleusercontent.com^
 ||10.0.minewise.xyz^
@@ -113,6 +115,7 @@
 ||159-89-17-182.cprapid.com^
 ||15eaytwast9oig.org^
 ||15gacgart9drc.life^
+||15.nybh.ru^
 ||16.0.4t.com^
 ||16.16.4t.com^
 ||1618meritking.com^
@@ -156,6 +159,7 @@
 ||1ge03xy5vtwn5s.org^
 ||1i2vp7bte.life^
 ||1ilov6.pro^
+||1i.myzj.ru^
 ||1.izumisv1.cc^
 ||1j89dadarol4g.life^
 ||1m.526r.ru^
@@ -324,6 +328,7 @@
 ||37.101.voltexpressdelivery.com^
 ||37-72-168-146.static.hvvc.us^
 ||37hrryyz275k8.life^
+||37.wugh.ru^
 ||37zi55wc.life^
 ||38f5wvwwn7o.life^
 ||38y1qea3nzt8e.cfc-execute.bj.baidubce.com^
@@ -397,6 +402,7 @@
 ||4c9takty1zx.life^
 ||4cc3c767-806f-4deb-a2f0-9260e37035c4.fedor-turin.ru^
 ||4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru^
+||4.derl.ru^
 ||4e6b5z4l2wd.life^
 ||4elhq2521mw.life^
 ||4ellisburton.zapto.org^
@@ -431,6 +437,7 @@
 ||4sntr015i7xom.life^
 ||4soexc4m.life^
 ||4tbwu08rg.life^
+||4t.wugh.ru^
 ||4u-2n-web.com^
 ||4ui23j0z9jjrn.life^
 ||4v0qmowukun68.life^
@@ -451,7 +458,6 @@
 ||5395dg0j4h79n.life^
 ||53d6c5e5e04f7e079df5d5d77bc259ea.us^
 ||53tboqg6srgh4xsaz6shnnshsqqccdzew5zwqzalfs2tuqw2cbf3i6yd.onion^
-||5461458.ddns.net^
 ||548125.com^
 ||54jmh8bnrpha7y.org^
 ||54x58q8lib4hu.life^
@@ -492,6 +498,7 @@
 ||5techguidet.digital^
 ||5vhkbv1vxxsnm.life^
 ||5vpw0f8capy.life^
+||5.wugh.ru^
 ||5za27x0ff58mr.cfc-execute.bj.baidubce.com^
 ||5zf7kj41fuqr9.life^
 ||6001.baidu787.com^
@@ -607,6 +614,7 @@
 ||7um64cd56c8ox.life^
 ||7upkarl.no-ip.biz^
 ||7vcfugjejghtu.life^
+||7w.lobd.ru^
 ||7xbapl162fg.life^
 ||7y4pjt6yk9j1c.life^
 ||7z.l5228.ru^
@@ -646,6 +654,7 @@
 ||8ajmswdkjya6r.cfc-execute.bj.baidubce.com^
 ||8alternative.zapto.org^
 ||8cx1dqbdb6ch8.life^
+||8d.derl.ru^
 ||8diaprinzpistpe.blogspot.com^
 ||8djp3zmzbif.life^
 ||8doj8uvx604eck.org^
@@ -660,6 +669,7 @@
 ||8k9dg54uoiaig.life^
 ||8ktedt71iw30a.life^
 ||8magicalmage.zapto.org^
+||8.mijk.ru^
 ||8msv1-23655.portmap.host^
 ||8n3rj69ohv8rv.life^
 ||8nioqhxciwoqc.click^
@@ -699,6 +709,7 @@
 ||989jsdbty.duckdns.org^
 ||997pk0z192f6o.life^
 ||998parakehjet.run^
+||99.derl.ru^
 ||9.9.jami.bio^
 ||9b10t4vyvx6b5.life^
 ||9blackljjwc.run^
@@ -718,6 +729,7 @@
 ||9nl2a1qma4swd.life^
 ||9o7fiy.bullpas.ru^
 ||9psg7n6nx8jpb.life^
+||9.pymz.ru^
 ||9qiliikd3sp.life^
 ||9qnk0nmyswkvz.life^
 ||9ra2xnnm8v62x.cfc-execute.bj.baidubce.com^
@@ -797,6 +809,8 @@
 ||aa9.cdn-779.ru^
 ||aa9.gt-70.ru^
 ||aa9.h924i.ru^
+||aa9.i-574.ru^
+||aa9.i-661.ru^
 ||aa9.me-71.ru^
 ||aa9.n278o.ru^
 ||aa9.q277.ru^
@@ -810,6 +824,7 @@
 ||aaasgoeiwesqwogk.xyz^
 ||aaasyasikycoakky.xyz^
 ||aaauwsmkokgmkoqg.xyz^
+||aaaxxx6.hopto.org^
 ||aaaygkyqiyimyaog.xyz^
 ||aabancaa.com^
 ||aabbe.shop^
@@ -1078,7 +1093,6 @@
 ||abundancia.kozow.com^
 ||abundantdisciplineju.shop^
 ||abundarma.com^
-||abuwire123.ddns.net^
 ||abuwire123.duckdns.org^
 ||abuwire123h.ddns.net^
 ||ab.w3h8j.ru^
@@ -1854,7 +1868,6 @@
 ||aiuwemgcgswwyack.xyz^
 ||aiv8bb2b.life^
 ||ai.w2r1k.ru^
-||aiwavey.run^
 ||aiwcccaaygwcaaqu.xyz^
 ||aiwimkuqkasukikq.xyz^
 ||aiwiwsqggcqmikyg.xyz^
@@ -2776,6 +2789,7 @@
 ||aplikasi.live^
 ||apm.vpce.gdw55e.micsoloft.info^
 ||apm.vpce.gdw55e.teams.m365.acenm.com^
+||ap.nybh.ru^
 ||apoqosp.top^
 ||apostlejob2.duckdns.org^
 ||apostlejob3.duckdns.org^
@@ -2796,7 +2810,6 @@
 ||appedfx.top^
 ||appetitesallooonsj.shop^
 ||appevql.top^
-||app.formaxprime.co.uk^
 ||appgridn.live^
 ||apphiller-43156.portmap.io^
 ||appinstall.app^
@@ -3363,6 +3376,7 @@
 ||aseeeiwykmyokaqq.xyz^
 ||aseeycggkkccqcoi.xyz^
 ||asegqqakwmykeoii.xyz^
+||AseguramayoDC.casacam.net^
 ||asegurar2octubre.duckdns.org^
 ||asegurar3octubre.duckdns.org^
 ||asegurar8889rem.mysynology.net^
@@ -4633,6 +4647,7 @@
 ||b2.k987.ru^
 ||b2.messager.my^
 ||b2.mo-49.ru^
+||b2.o-279.ru^
 ||b2.r219i.ru^
 ||b2.s-819.ru^
 ||b2sys.eu^
@@ -5112,7 +5127,6 @@
 ||blacktds.ai^
 ||blackyywire.ddns.net^
 ||blameaowi.run^
-||blancoestev27.duckdns.org^
 ||blaskjar.xyz^
 ||blaspheme-herbal.shop^
 ||blassu.top^
@@ -5725,9 +5739,11 @@
 ||c5.cdn-779.ru^
 ||c5.gt-70.ru^
 ||c5.h924i.ru^
+||c5.i-574.ru^
 ||c6.0y2i.ru^
 ||c66pqivko6n8o.life^
 ||c6.st4b4n.fr^
+||c7.a-156.ru^
 ||c7.cdn-357.ru^
 ||c7.dy-53.ru^
 ||c7.k625e.ru^
@@ -5978,6 +5994,7 @@
 ||camfrogupdate.no-ip.org^
 ||camgeygskaawowiy.xyz^
 ||camggcweoacccquw.xyz^
+||ca.mijk.ru^
 ||camikwqswosgikao.xyz^
 ||camilohernandez20301.duckdns.org^
 ||camilorestrepo9050702.duckdns.org^
@@ -7717,6 +7734,7 @@
 ||cnc.cinquento.publicvm.com^
 ||cnc.discordservers.fun^
 ||cnc.duc3k.com^
+||cnc.feds.gay^
 ||cnc.ibypasser.online^
 ||cnc.isisnet.xyz^
 ||cnc.jssaytcp.lat^
@@ -7902,7 +7920,6 @@
 ||complte62346743.icu^
 ||complve.top^
 ||compradoo.com.br^
-||compralibri.com^
 ||compreakieali.com^
 ||comprovantt.ddns.net^
 ||compunetplc.com^
@@ -7937,7 +7954,6 @@
 ||confa89128.click^
 ||conferencedesk.net^
 ||conferencefreckewl.shop^
-||confident-archimedes.179-43-176-3.plesk.page^
 ||config-edge-assets.live^
 ||configedge-assets.live^
 ||configedge-assets.org^
@@ -8141,7 +8157,6 @@
 ||cpanel.destroythebrainonline.com^
 ||cpanel.d.multi-canale.com^
 ||cpanel.doggiefountain.com^
-||cpanel.efcommxerce.ru^
 ||cpanel.freein-deed.com^
 ||cpanel.gemstonebookkeepingservices.com^
 ||cpanel.gfjd.104-168-101-27.cprapid.com^
@@ -9781,6 +9796,8 @@
 ||czugy.com^
 ||czvum-84-84-38-102.a.free.pinggy.link^
 ||d00d7ks32.life^
+||d0.alexandraparasca.com^
+||d0.aztu.edu.az^
 ||d0ngol.no-ip.biz^
 ||d1.465-w.ru^
 ||d1.dyfot.fun^
@@ -9814,7 +9831,6 @@
 ||dadanyohoocloud.com^
 ||daddadasd-29521.portmap.host^
 ||daddy1621-37132.portmap.host^
-||dadfsfsdfasdfasddfgssdfaafsd-63495.portmap.host^
 ||dadijinn05.ddns.net^
 ||dadypopjava.no-ip.org^
 ||dadypop.no-ip.org^
@@ -9984,6 +10000,7 @@
 ||dcgast.duckdns.org^
 ||dcgazt.duckdns.org^
 ||dcgen1.no-ip.org^
+||dcgerts.duckdns.org^
 ||dcgretts.duckdns.org^
 ||dcgrettz.duckdns.org^
 ||dcgrezzt.duckdns.org^
@@ -10020,6 +10037,7 @@
 ||dd.vvbb321.com^
 ||ddwall.duckdns.org^
 ||dd.xxcc789.com^
+||d.e-134.ru^
 ||de3.localto.net^
 ||de5.localto.net^
 ||deadbird8524-37163.portmap.io^
@@ -10413,6 +10431,7 @@
 ||dll.schermgebroken.nl^
 ||dllsys.duckdns.org^
 ||dll.vuzojiu9.ru^
+||dl.mijk.ru^
 ||dlmparis623.cfd^
 ||dl.newtoyourgame.com^
 ||dload.chatology.my^
@@ -10440,7 +10459,6 @@
 ||dns2.e-twfpg.com^
 ||dns2.fjhfkjgfoufruyduyd.org^
 ||dns2.zapto.org^
-||dns-5hm3l-stf-otbor.online^
 ||dns.checkavail.space^
 ||dnscs.xinzyun.cn^
 ||dnse2542.duckdns.org^
@@ -10480,7 +10498,6 @@
 ||document-downloads.ddns.net^
 ||document-parker.gl.at.ply.gg^
 ||document-prok.freedynamicdns.org^
-||documents.aruba.cloudconnect-auth0.top^
 ||documents-here.gl.at.ply.gg^
 ||documents-johnny.gl.at.ply.gg^
 ||doddyfire.linkpc.net^
@@ -10606,6 +10623,7 @@
 ||dps.vumarifa.com^
 ||dp-test1.com^
 ||dpwekwpd-58261.portmap.io^
+||d.pymz.ru^
 ||dq54wdwq5d4.jocker.space^
 ||d.r274.ru^
 ||dracula4000.duckdns.org^
@@ -10780,6 +10798,7 @@
 ||d.x-05.ru^
 ||d.x0a3.ru^
 ||d.x331e.ru^
+||d.x874a.ru^
 ||d.xe-96.ru^
 ||dxoop590.no-ip.biz^
 ||dx-www.com^
@@ -10815,9 +10834,11 @@
 ||e0rhjl9so13.life^
 ||e.0u7y.ru^
 ||e12sw2209cc53.life^
+||e1.a-342.ru^
 ||e1.cdn-626.ru^
 ||e1.cr-65.ru^
 ||e1.ja-02.ru^
+||e1.lobd.ru^
 ||e1.s951.ru^
 ||e1.v354y.ru^
 ||e21hhjf8659tt.life^
@@ -11000,7 +11021,6 @@
 ||ec2-18-163-127-62.ap-east-1.compute.amazonaws.com^
 ||ec2-18-166-104-119.ap-east-1.compute.amazonaws.com^
 ||ec2-18-166-31-74.ap-east-1.compute.amazonaws.com^
-||ec2-18-167-254-207.ap-east-1.compute.amazonaws.com^
 ||ec2-18-168-225-154.eu-west-2.compute.amazonaws.com^
 ||ec2-18-184-8-83.eu-central-1.compute.amazonaws.com^
 ||ec2-18-220-79-189.us-east-2.compute.amazonaws.com^
@@ -12511,12 +12531,9 @@
 ||electronics-peaceful.gl.at.ply.gg^
 ||electronics-webmaster.gl.at.ply.gg^
 ||electr.pics^
-||electrum-avax.com^
-||electrumdoge.com^
 ||electrum-doge.online^
 ||electrum-faq.org^
 ||electrum.org.ph^
-||electrum-ravencoin.com^
 ||electrum-wcllet.com^
 ||electrum-xmr.net^
 ||electrumxrp.org^
@@ -12605,6 +12622,7 @@
 ||empirewindowfurnishings.com.au^
 ||empiricaludder.top^
 ||employees-churches.gl.at.ply.gg^
+||employment-memorabilia.gl.at.ply.gg^
 ||employment-safari.gl.at.ply.gg^
 ||empowermobility.com.au^
 ||empowervista.com^
@@ -14240,7 +14258,6 @@
 ||flac.fozomya6.ru^
 ||fladiw.asia^
 ||flagump.top^
-||flame3135-44263.portmap.host^
 ||flamencobeents.click^
 ||flameon.ath.cx^
 ||flameon.servegame.org^
@@ -14389,6 +14406,7 @@
 ||foojblh.top^
 ||foospjo.lat^
 ||football987654321-55635.portmap.io^
+||football-confident.gl.at.ply.gg^
 ||football-wonder.gl.at.ply.gg^
 ||fopelas.com^
 ||fop.sumukye2.ru^
@@ -14672,7 +14690,9 @@
 ||fw396back6.site^
 ||fwurryfriends.top^
 ||fwwls.press^
+||fx.alexandraparasca.com^
 ||fxareba.com^
+||fx.aztu.edu.az^
 ||fxcg75yxz5z.life^
 ||fxflcqdiilffuhwmvn.com^
 ||fxreshideas.tech^
@@ -14948,7 +14968,6 @@
 ||galactich.today^
 ||galarona.bet^
 ||galawgtl.top^
-||galaxiay.world^
 ||galaxyv.top^
 ||galeuqqi.xyz^
 ||galijd.shop^
@@ -16339,6 +16358,7 @@
 ||ghyb.ghyufo.cn^
 ||ghybu8as.top^
 ||ghyouopkphf2x.life^
+||g.i-661.ru^
 ||giaakyssssykeeqk.xyz^
 ||giaaoyiwioieckia.xyz^
 ||giaawugasyagguwg.xyz^
@@ -17002,7 +17022,6 @@
 ||gmsymskiqcmacukw.xyz^
 ||gmthelp.top^
 ||gmt-prevention.gl.at.ply.gg^
-||gmt-sherman.gl.at.ply.gg^
 ||gmucguusmuqwwaiq.xyz^
 ||gmucwqwaasmacwuk.xyz^
 ||gmuemsuckuwuawca.xyz^
@@ -17382,6 +17401,7 @@
 ||gq8ruzk1h3a8.cfd^
 ||g.qej9.ru^
 ||gquyy1qf8ncn7.life^
+||gq.wugh.ru^
 ||gqwy.net^
 ||gqy.zelojue1.ru^
 ||grabyourbookhere.com^
@@ -17790,6 +17810,7 @@
 ||h1.802d.ru^
 ||h1.byq3.ru^
 ||h1.catnipreggae.shop^
+||h1.e-134.ru^
 ||h1.exceptionicon.top^
 ||h1.glitzyentire.top^
 ||h1.glucoseranger.digital^
@@ -17858,7 +17879,6 @@
 ||hacking01.ddns.net^
 ||hacking702-35743.portmap.io^
 ||hackingftw.no-ip.org^
-||hacknestm.run^
 ||hacknowl.digital^
 ||hackound.no-ip.org^
 ||hackuracyv2.zapto.org^
@@ -17871,7 +17891,6 @@
 ||haggwwb.top^
 ||hagitkoren.online^
 ||hahaaha.no-ip.org^
-||hai1723rat-29066.portmap.host^
 ||haidao10.top^
 ||haiderali-41746.portmap.io^
 ||hailcock.gotdns.ch^
@@ -18160,7 +18179,6 @@
 ||hi.dihijio22.ru^
 ||hidra991.hldns.ru^
 ||hiesa-56152.portmap.host^
-||higerson.shop^
 ||highawaretemptersudwu.xyz^
 ||high-control.net^
 ||highcouncipl.live^
@@ -18181,6 +18199,7 @@
 ||hikeytrends.com^
 ||hikig.press^
 ||hikitariko-60039.portmap.host^
+||hikylover.st^
 ||hillcoweb.com^
 ||hillfire.dns.army^
 ||hill-whale.gl.at.ply.gg^
@@ -18216,6 +18235,7 @@
 ||hitwaze.asia^
 ||hityok.com^
 ||hivlcjcvux.com^
+||h.j287y.ru^
 ||hjanarchydg.duckdns.org^
 ||hjasfhajf.click^
 ||hjdfikgmhficchm.top^
@@ -18235,6 +18255,7 @@
 ||hkl.sumukye2.ru^
 ||hkmlchlbjibdafd.top^
 ||hkomv94te.localto.net^
+||hk.pymh.ru^
 ||hkr0550.no-ip.biz^
 ||hkr2011.no-ip.org^
 ||hl81xtzjv36jf.life^
@@ -18410,11 +18431,11 @@
 ||hp-aggressive.gl.at.ply.gg^
 ||h.pejy1.ru^
 ||hp.f42s.ru^
-||h.p.formaxprime.co.uk^
 ||hpiflogistics.com^
 ||hpqr.qapyfyi0.ru^
 ||hptechsoft.xyz^
 ||hptest.ro^
+||h.pymz.ru^
 ||hpzmehtnkk4q22.org^
 ||h.q463a.ru^
 ||hqdataep.digital^
@@ -18568,6 +18589,7 @@
 ||iarm.co.kr^
 ||iart76.wintelupdate.pw^
 ||iavfuykg.com^
+||ia.wuhp.ru^
 ||ibcm5at6qrz.life^
 ||ibdoo.com^
 ||ibgrlnu1e.life^
@@ -18580,6 +18602,7 @@
 ||ibuzzarddf.live^
 ||ib.vuzojiu9.ru^
 ||ib-www.com^
+||icc.konebras.com.br^
 ||iccqwuieekaewamg.xyz^
 ||ice.qecufey7.ru^
 ||icerinh.qpon^
@@ -19504,7 +19527,6 @@
 ||iiiowrc.digital^
 ||iiiqseaoumekgmwa.xyz^
 ||iiiscuywuswmmems.xyz^
-||iii-single.gl.at.ply.gg^
 ||iiiukkauywyycsgo.xyz^
 ||iikckkiiasimyoew.xyz^
 ||iikeiuyowgcouoom.xyz^
@@ -20701,6 +20723,7 @@
 ||intsn.run^
 ||invdfgq.pics^
 ||inventscience.st^
+||inversat.cc^
 ||invertdbdi.top^
 ||inverterpos.duckdns.org^
 ||investment-calendar.gl.at.ply.gg^
@@ -21283,6 +21306,7 @@
 ||iujqdwh-61305.portmap.io^
 ||iulianau.digital^
 ||iusefatalbtw-34401.portmap.host^
+||Iusefatalbtw-48418.portmap.host^
 ||Iusefatalbtw-50944.portmap.host^
 ||Iusefatalbtw-63960.portmap.host^
 ||ivan-turgenev.pro^
@@ -21761,7 +21785,6 @@
 ||jmcorporationkorea.com^
 ||j-mere.gl.at.ply.gg^
 ||jmfprcpenkqskxk.top^
-||jmucha.fun^
 ||jne7ovfut.localto.net^
 ||jnhelp.top^
 ||j.nq-52.ru^
@@ -21978,6 +22001,7 @@
 ||k6r11hdxxm2.life^
 ||k7b843izg720e.life^
 ||k7.cdn-568.ru^
+||k7.i-661.ru^
 ||k7.kd-50.ru^
 ||k7.me-71.ru^
 ||k8.1i5i.ru^
@@ -23856,7 +23880,6 @@
 ||koyyosgsgiyuwwwu.xyz^
 ||kp96.no-ip.info^
 ||kpiwo.com^
-||kpl-gun77dan.com^
 ||kpnoq8eil.localto.net^
 ||kprocurement.com^
 ||kpsfabxdwbvv.com^
@@ -24286,7 +24309,6 @@
 ||ksfkhettr.no-ip.biz^
 ||k-sharq.com^
 ||ksj43ts.duckdns.org^
-||ksmj.ddns.net^
 ||ksmkmimback.ddns.net^
 ||ksmpico.biz^
 ||ks.nyho0io9.ru^
@@ -24901,12 +24923,14 @@
 ||lc9imdd0qw4sf.life^
 ||lcdjbjgdkibifam.top^
 ||l.cdn-779.ru^
+||l.cheapgylsale.com^
 ||lcmelwp.icu^
 ||lcwa.sdjfsg.cn^
 ||lcwb.sdjfsg.cn^
 ||lcwd.sdjfsg.cn^
 ||lcwe.sdjfsg.cn^
 ||lcwf.sdjfsg.cn^
+||lc.wugh.ru^
 ||ld44s7ji3qm.life^
 ||l.dasurie36.ru^
 ||ldjbfdklkr.com^
@@ -25022,6 +25046,7 @@
 ||levodsf.ddns.net^
 ||levonpharma.com^
 ||lexenorf.org^
+||lexypaster.ddns.net^
 ||lfback9366.site^
 ||lfv1zhpwz.localto.net^
 ||lgacp.com^
@@ -25038,6 +25063,7 @@
 ||lh3.accountsgoogle.loginlivemiscrosoftonline.duckdns.org^
 ||l.h924i.ru^
 ||lhunevjdxw5kz.life^
+||l.i-574.ru^
 ||liabilityarrangemenyit.shop^
 ||liamderneger.zapto.org^
 ||liangpao8541.top^
@@ -25097,7 +25123,6 @@
 ||linevanarsor.xyz^
 ||linexb.top^
 ||lineyn.pics^
-||lingardmechanics.shop^
 ||lingerescapecleanwja.fun^
 ||lingzvl.top^
 ||linhua97.top^
@@ -25247,7 +25272,6 @@
 ||login.mfacheck.com^
 ||login.microsoftonline.spontsmens.com^
 ||login.misctoolsupdate.com^
-||login.my.gov.au.upgrade1.zip^
 ||login.office.safelogins.su^
 ||login.officetoolservices.com^
 ||login.onlinenetworkupdate.com^
@@ -25374,6 +25398,7 @@
 ||lq.k25q.ru^
 ||lq.ljat.ru^
 ||lqlop.com^
+||lq.pymh.ru^
 ||lqsword.top^
 ||l.r0z8r.ru^
 ||l.r2h7m.ru^
@@ -25483,6 +25508,7 @@
 ||lzpbo.com^
 ||m0b88ot97bjsb.life^
 ||m0.kd-50.ru^
+||m0.nybh.ru^
 ||m0sagal.linkpc.net^
 ||m1dni9ht.ddns.net^
 ||m1f.fid1.ru^
@@ -25518,6 +25544,7 @@
 ||m7.e-815.ru^
 ||m7.k987.ru^
 ||m7.mo-49.ru^
+||m7.o-279.ru^
 ||m7.p556i.ru^
 ||m7.r219i.ru^
 ||m7r4r2i2.stackpathcdn.com^
@@ -25693,7 +25720,6 @@
 ||mail.messager.my^
 ||mail.miliao.cc^
 ||mail.mofa-govbd.com^
-||mail.multi-canale.com^
 ||mail.m.web-app-on.com^
 ||mail-my-account.com^
 ||mail.ntc.net.pk.onlinestatus.live^
@@ -26149,6 +26175,7 @@
 ||meajo.shop^
 ||mealair.digital^
 ||mealroomrallpassiveer.shop^
+||mean-airline.gl.at.ply^
 ||meaqgccyiigmiaue.xyz^
 ||m-e-a-s.com^
 ||measuwgggskccsqe.xyz^
@@ -26821,7 +26848,6 @@
 ||mmcwgocosqoeyumk.xyz^
 ||mmcwouwyywwysyms.xyz^
 ||mmcyykcuwowmeaqg.xyz^
-||mmdrza.ddns.net^
 ||mmeaggeqgmeasmyc.xyz^
 ||mmeakcqcecwseuiw.xyz^
 ||mmeamewucgqciiso.xyz^
@@ -28807,6 +28833,7 @@
 ||mvnetworking.com^
 ||mvnrepo.net^
 ||mvp5pt36h20vf.life^
+||mvps-remote.duckdns.org^
 ||mvtaudrockn.com^
 ||mw3bn6jeeodm5.life^
 ||mwei.africa^
@@ -29160,6 +29187,7 @@
 ||n8.5i0a.ru^
 ||n8n-video-demo.keerok.tech^
 ||n9.527w.ru^
+||n.a-156.ru^
 ||nackt-bilder.top^
 ||nadico.no-ip.org^
 ||nadine21347-42251.portmap.io^
@@ -29935,6 +29963,7 @@
 ||nuvye89bjz4.top^
 ||nuwof.icu^
 ||nuxul.icu^
+||nuz8o8.88933.vip^
 ||n.v1n4n.ru^
 ||nv6b6ka9.z1001.net^
 ||nvdiemosole.broke-it.net^
@@ -29973,6 +30002,7 @@
 ||nysux.shop^
 ||ny.tygilyo.ru^
 ||nyzzrat-64271.portmap.io^
+||n.z413y.ru^
 ||nz9sjxx21tp5x.life^
 ||nzekanze2013.hopto.org^
 ||nzi.xijoxou.ru^
@@ -30177,7 +30207,6 @@
 ||ocsmoaikgsmuigms.xyz^
 ||ocsukaykoaimqsus.xyz^
 ||ocsysoeyguamkmgy.xyz^
-||oct2.xyz^
 ||octalfbsh.bet^
 ||octanzn.bet^
 ||oct-departments.gl.at.ply.gg^
@@ -30759,6 +30788,7 @@
 ||olimpodocce.com^
 ||olmilllchi.xyz^
 ||ol.minernaft.com^
+||ol.nybh.ru^
 ||olol.ddns.net^
 ||ol.p-93-z.ru^
 ||olqrw.shop^
@@ -30776,6 +30806,7 @@
 ||omega2.no-ip.biz^
 ||omertaza.beer^
 ||omfg123.zapto.org^
+||omfg131313.dynuddns.com^
 ||omfgitworks.no-ip.org^
 ||omfzgpeeksux.no-ip.biz^
 ||omgwtfbbq123.sytes.net^
@@ -31361,6 +31392,7 @@
 ||orienlc.bet^
 ||orientseikko.no-ip.org^
 ||original-do.gl.at.ply.gg^
+||original-fan.gl.at.ply.gg^
 ||orijinalecza.org^
 ||oriod445se.hopto.org^
 ||orion.mysoroush.com^
@@ -33081,7 +33113,6 @@
 ||permanz.qpon^
 ||permwgp.xyz^
 ||perpenab.icu^
-||persimmon-turquoise344028.vm-host.com^
 ||personal-bann-fab.info^
 ||personalpromiseo.fun^
 ||personal.regpad.net^
@@ -33254,7 +33285,6 @@
 ||pixelstars.xyz^
 ||pixelupf.live^
 ||pixoos.com^
-||pixtreev.run^
 ||pizza10delivery.com.br^
 ||p.jbhelp.top^
 ||p.jeml.ru^
@@ -33560,13 +33590,13 @@
 ||pow.t.xifuhalim.com^
 ||poxtlb.shop^
 ||ppew.au^
-||pppaa-51102.portmap.host^
 ||pp.portalstatement.com^
 ||ppssl.press^
 ||pptp.ipjetable.net^
 ||pptpooalfkakktl.com^
 ||ppzr.live^
 ||pq5.x-05.ru^
+||pq9.x874a.ru^
 ||p.qdhelp.top^
 ||pqe.nyho0io9.ru^
 ||pqhr.kixyzoo7.ru^
@@ -33719,7 +33749,6 @@
 ||program-neutral.gl.at.ply.gg^
 ||programs-criticism.gl.at.ply.gg^
 ||programs-realty.gl.at.ply.gg^
-||progressiveptgreenvalley.com^
 ||progress.moneymatrixonline.com^
 ||projecktupdatemonk.com^
 ||projects.alternativesynergies.com^
@@ -33732,6 +33761,7 @@
 ||promiseallrace.com^
 ||promisedjeylk.cfd^
 ||promo.kimmwhite.com^
+||promole5.ddns.net^
 ||promo.summat10n.org^
 ||pronedot9.ddns.net^
 ||properiloe.digital^
@@ -33933,6 +33963,7 @@
 ||pz8.99jn.ru^
 ||pz8.9a9o8.ru^
 ||pz8.9n75.ru^
+||pz8.e-134.ru^
 ||pz9k9kaihtptd.life^
 ||pzbx.xyz^
 ||pzkey.com^
@@ -35329,6 +35360,7 @@
 ||qk1.e-815.ru^
 ||qk2.08jm.ru^
 ||qk2.4m99.ru^
+||qk2.a-342.ru^
 ||qk2.cdn-175.ru^
 ||qk2.cdn-626.ru^
 ||qk2.cr-65.ru^
@@ -35345,6 +35377,7 @@
 ||qlpuekmxibf.com^
 ||q.m074.ru^
 ||qm4hupdsq.life^
+||qm8.j287y.ru^
 ||qm9.03mr.ru^
 ||qm9.2p62.ru^
 ||qm9.6q8v0.ru^
@@ -36524,6 +36557,7 @@
 ||qz9.9s4g2.ru^
 ||qz9.cdn-748.ru^
 ||qz9.m-754.ru^
+||qz9.o-554.ru^
 ||qz9.q210u.ru^
 ||qzmlg.com^
 ||qzowg.com^
@@ -36565,6 +36599,7 @@
 ||r976ptnxbh52l.life^
 ||r9m.5e6a.ru^
 ||r9mkypblrf7ai.life^
+||r.a-342.ru^
 ||raadsolution.site^
 ||raaj.ltd^
 ||r.aartzz.pp.ua^
@@ -37272,7 +37307,6 @@
 ||root90.no-ip.biz^
 ||root.darkproducts.ru^
 ||rootdz.messager.my^
-||rootedkrypto-29674.portmap.host^
 ||root.iloveanimals.shop^
 ||rootino.top^
 ||rootoverflow.pro^
@@ -37346,6 +37380,7 @@
 ||rsvn-extrnt.com^
 ||rsvpthedate.com^
 ||r.t3m3d.ru^
+||rt.lobd.ru^
 ||rtp-kapuas88.com^
 ||rtppedangdewa.com^
 ||rtpslotdewi.com^
@@ -37361,7 +37396,6 @@
 ||ruborfdyi.digital^
 ||rubria.net^
 ||rubyscoeicm.com^
-||ruffella1122.duckdns.org^
 ||rufino.no-ip.biz^
 ||rufus-dyer.com^
 ||rugbybrign.life^
@@ -37471,6 +37505,7 @@
 ||s4.kefel.tech^
 ||s4ntiselac0m3-44679.portmap.io^
 ||s.5e6a.ru^
+||s5.nybh.ru^
 ||s5r.uncofig.com^
 ||s6.b340.ru^
 ||s6mngnfnj9nrfj.org^
@@ -38193,7 +38228,6 @@
 ||seaoqwgqamekiqso.xyz^
 ||seaowoumoomcceyu.xyz^
 ||seapixelmode.top^
-||se.app.formaxprime.co.uk^
 ||seaqcuseaaiuiqea.xyz^
 ||seaqeamcyyuqqamo.xyz^
 ||seaqgmsuwcwwmyyg.xyz^
@@ -39036,7 +39070,6 @@
 ||sevenhungredbucks.com^
 ||seven.nadns.info^
 ||severhi.lol^
-||severug.com^
 ||sevstats.top^
 ||sevster23452-30169.portmap.host^
 ||sewagoccuogcuyac.xyz^
@@ -39126,6 +39159,8 @@
 ||sff.sed-i.org^
 ||sfibhzu3ubhza.top^
 ||sfr90.no-ip.org^
+||sfr.aztu.edu.az^
+||sfr.konebras.com.br^
 ||sfrq624fuus5k.life^
 ||sftp.bitepieces.com^
 ||sftp.firestarted.com^
@@ -39538,6 +39573,7 @@
 ||shadow2515.duckdns.org^
 ||Shadow2sas-22639.portmap.host^
 ||Shadow32434-42879.portmap.host^
+||SHADOWii0000-45869.portmap.host^
 ||shadow.steelpanman.com^
 ||shaeb.xyz^
 ||shagkeg.ru^
@@ -40058,7 +40094,6 @@
 ||skynet-i.asuscomm.com^
 ||skynetx2025.accesscam.org^
 ||skynetx2025.ddns.net^
-||skynetxc.live^
 ||sky.nylykuu40.ru^
 ||skyoemwqqgeagiek.xyz^
 ||skyprotech.ru^
@@ -40494,7 +40529,6 @@
 ||so.myda4.ru^
 ||sondoscamisas.com^
 ||soneypaly.club^
-||song-direct.gl.at.ply.gg^
 ||songlong88.net^
 ||songs-acid.gl.at.ply.gg^
 ||songs-seen.gl.at.ply.gg^
@@ -40993,6 +41027,7 @@
 ||started-knives.gl.at.ply.gg^
 ||startitit2-23969.portmap.host^
 ||startmenuexperiencehostw.ydns.eu^
+||startmenuexperiencehost.ydns.eu^
 ||startnw54.duckdns.org^
 ||start-publisher.gl.at.ply.gg^
 ||start-semi.gl.at.ply.gg^
@@ -41219,7 +41254,6 @@
 ||suave0316.ddns.net^
 ||sub2.afghankush.net^
 ||subasyncratlog.duckdns.org^
-||subdomainhere.klogixsecurity.org^
 ||subduxxi.duckdns.org^
 ||subdvivw.shop^
 ||subfrontier.duckdns.org^
@@ -41368,7 +41402,6 @@
 ||sv3.xxyybb.xyz^
 ||svchosst.com^
 ||svchost.iqiyia.top^
-||svchost.iqiyid.icu^
 ||svcsync.com^
 ||svdyfsdeyawxhxn.com^
 ||svetvip.ru^
@@ -41890,6 +41923,7 @@
 ||t15clothing.com^
 ||t1.cdn-175.ru^
 ||t1.cdn-748.ru^
+||t1.o-554.ru^
 ||t1.p556i.ru^
 ||t1.q210u.ru^
 ||t1v.3o5i.ru^
@@ -42055,6 +42089,7 @@
 ||team-evaluating.gl.at.ply.gg^
 ||teamfavour222.ddns.net^
 ||teammist.no-ip.org^
+||teams-download.buzz^
 ||teams-msg.com^
 ||teams-msg.live^
 ||teams-msg-microsoft.live^
@@ -42308,7 +42343,6 @@
 ||themastersphere.com^
 ||themegaprovider.ddns.net^
 ||themew.zapto.org^
-||them-hobbies.gl.at.ply.gg^
 ||themotorsnews.com^
 ||themrbadboy.zapto.org^
 ||thenbkgroup.com^
@@ -42482,10 +42516,12 @@
 ||tlger.store^
 ||tl.hifeboi3.ru^
 ||tliy48rr6fi7.life^
+||tl.pihp.ru^
 ||tl.reluxiy6.ru^
 ||tls.psigestioncomercial.com.ar^
 ||tls.sharesoffices.com^
 ||tl.xibovyu5.ru^
+||tm7.z413y.ru^
 ||tma.penodoa.ru^
 ||tme.hicymui.ru^
 ||tmello.com^
@@ -42612,9 +42648,11 @@
 ||tq1.cdn-659.ru^
 ||tq1.k987.ru^
 ||tq1.mo-49.ru^
+||tq1.o-279.ru^
 ||tq1.r219i.ru^
 ||tq1.s-819.ru^
 ||tq.6i4u.ru^
+||tq.derl.ru^
 ||tqechtrends.shop^
 ||tqidskreen.top^
 ||tqilxwrw5m54pj.org^
@@ -42739,7 +42777,6 @@
 ||tr.kocq.ru^
 ||trmedicr.digital^
 ||trmm.space^
-||trobudrunksz.click^
 ||troia23.ddns.net^
 ||troia23.duckdns.org^
 ||trojanshacker.no-ip.org^
@@ -42931,6 +42968,7 @@
 ||u1.entouragescuff.shop^
 ||u1.hu-50.ru^
 ||u.1i5i.ru^
+||u1.j287y.ru^
 ||u1.k807.ru^
 ||u1.paralegalchemicals.run^
 ||u1.parasailkisser.today^
@@ -42950,6 +42988,7 @@
 ||u4wqbjlplzi5hdx.ru^
 ||u5.08jm.ru^
 ||u5.4m99.ru^
+||u5.a-342.ru^
 ||u5.cdn-626.ru^
 ||u5.cr-65.ru^
 ||u5.ja-02.ru^
@@ -45079,6 +45118,7 @@
 ||upcdnnodes.cfd^
 ||up.ciqe8.ru^
 ||up.dasurie36.ru^
+||update.00m-i.cloud^
 ||update04.microsoft-essentials.com^
 ||update-api.dtbr744y.workers.dev^
 ||update.applefilesync.com^
@@ -45147,6 +45187,7 @@
 ||upwanpdx.qpon^
 ||upxamcuma.life^
 ||up.xonulee9.ru^
+||u.pymh.ru^
 ||uqaamsaimaawsgyq.xyz^
 ||uqaasgmgyoseqmwm.xyz^
 ||uqaauaauoygkeqqi.xyz^
@@ -45662,6 +45703,7 @@
 ||v2.cdn-748.ru^
 ||v2.egrfbumsu.cn^
 ||v2.hometxuser.n-e.kr^
+||v2.i-661.ru^
 ||v2.m-754.ru^
 ||v2-mdex.xyz^
 ||v2.me-71.ru^
@@ -45764,6 +45806,7 @@
 ||vd-ntds.com^
 ||vd.nyps.ru^
 ||vdoxl.com^
+||vd.padj.ru^
 ||vds2309970.my-ihor.ru^
 ||vds2369972.my-ihor.ru^
 ||vds2386299.my-ihor.ru^
@@ -46126,6 +46169,7 @@
 ||vytoz.press^
 ||vyzap.icu^
 ||vzaria83wharvid.com^
+||vz.derl.ru^
 ||vzf1g0it8gpvq7.org^
 ||vzg4oh5v2kg.life^
 ||vzrealize.no-ip.biz^
@@ -46138,11 +46182,13 @@
 ||w2.5i0a.ru^
 ||w2ijk9.link^
 ||w3hhhhh-44281.portmap.host^
+||w3.x874a.ru^
 ||w4.1z2p9.ru^
 ||w4.5i4u8.ru^
 ||w4.99jn.ru^
 ||w4.9a9o8.ru^
 ||w4.9n75.ru^
+||w4.e-134.ru^
 ||w4.h-214.ru^
 ||w4tchrs.no-ip.org^
 ||w4.x331e.ru^
@@ -46281,6 +46327,7 @@
 ||waskmkwuquegioqk.xyz^
 ||waskygiqqyuuagkm.xyz^
 ||wasmegwmwykgaogs.xyz^
+||was-rand.gl.at.ply.gg^
 ||was-speech.gl.at.ply.gg^
 ||wastegrape.info^
 ||wasumqigyokgcggm.xyz^
@@ -46415,7 +46462,6 @@
 ||webdisk.e.multi-canale.com^
 ||webdisk.e.ora-0-web.com^
 ||webdisk.h.web-app-on.com^
-||webdisk.oraonweb.com^
 ||webdisk.project-w.xyz^
 ||webdisk.tempoestil.com^
 ||webdisk.umathurman.org^
@@ -46459,7 +46505,6 @@
 ||webmail.continueoraweb.com^
 ||webmail.detfec.com^
 ||webmail.ebuildingsource.com^
-||webmail.efcommxerce.ru^
 ||webmail.f.multi-canale.com^
 ||webmail.gfjd.104-168-101-27.cprapid.com^
 ||webmail.h.web-app-on.com^
@@ -46586,6 +46631,7 @@
 ||wew.shipensburginvestmentgroup.com^
 ||wf8gacjbp9imr.life^
 ||wfcmskgm.com^
+||wf.pymz.ru^
 ||w-fraction.gl.at.ply.gg^
 ||wfyzizcy.eza^
 ||wgaagqoumaoocqcm.xyz^
@@ -48133,6 +48179,7 @@
 ||wmyycyqqswyqkgmq.xyz^
 ||wmyygqmcmskiuyke.xyz^
 ||wmyyoukkeqwsamyw.xyz^
+||w.myzj.ru^
 ||wndlogon.hopto.org^
 ||wndlogon.itemdb.com^
 ||wnhelp.top^
@@ -48576,6 +48623,7 @@
 ||w.q5z9s.ru^
 ||w.q780.ru^
 ||wq9.227-m.ru^
+||wq9.a-156.ru^
 ||wq9.cdn-357.ru^
 ||wq9.dy-53.ru^
 ||wq9.k625e.ru^
@@ -49377,7 +49425,6 @@
 ||www.am99.club^
 ||www.amacook.shop^
 ||www.amanigroup.co.in^
-||www.amanmail.info^
 ||www.amazonlivenews.com^
 ||www.ambiopharmconsultingltd.com^
 ||www.amcmadmen.com^
@@ -50711,7 +50758,6 @@
 ||www.minernaft.com^
 ||www.missionssummit.com^
 ||www.mj12.top^
-||www.mkdirjava.com^
 ||www.mkmku.shop^
 ||www.mlcrosoft.ninth.biz^
 ||www.mlservices.net^
@@ -51984,6 +52030,7 @@
 ||x6iye.site^
 ||x70eca9dqaj6k.life^
 ||x8d.byq3.ru^
+||x8.z413y.ru^
 ||x98yt5zgrdetc.life^
 ||x9d.7-fd.ru^
 ||xablgjgqpfayxcoan.com^
@@ -52011,6 +52058,7 @@
 ||xcellentrenovations.com^
 ||xcelmodo.run^
 ||xcfhg.dwnlld.info^
+||x.cheapgylsale.com^
 ||xc.no-ip.org^
 ||xcobber1.ddns.net^
 ||x.cpyc.at^
@@ -52118,6 +52166,7 @@
 ||xnxutbo5etuw9.life^
 ||xnxx.galaxias.cc^
 ||xnzwoeirplad.click^
+||x.o-279.ru^
 ||xodleh1979.gicp.net^
 ||xoebty.com^
 ||xoebty.info^
@@ -52142,6 +52191,7 @@
 ||xpussyassshitfuckx.zapto.org^
 ||xpwarzonlin2.ddns.net^
 ||xp.w.minewise.fun^
+||x.pymz.ru^
 ||xq0.6k47.ru^
 ||xq0.7o3u8.ru^
 ||xq0.9t6p5.ru^
@@ -52149,6 +52199,7 @@
 ||xq0.cdn-779.ru^
 ||xq0.gt-70.ru^
 ||xq0.h924i.ru^
+||xq0.i-574.ru^
 ||xq0.tbkh.ru^
 ||xq7.08jj.ru^
 ||xq7.1v47.ru^
@@ -52271,6 +52322,7 @@
 ||y2iv17lkdmj55.life^
 ||y.333-f.ru^
 ||y37vxmir7miwq.life^
+||y3.pihp.ru^
 ||y3vmprmb726we.life^
 ||y4sser.no-ip.org^
 ||y4yhop208nes.life^
@@ -52453,7 +52505,6 @@
 ||yearscrew.xyz^
 ||yearsfa.top^
 ||years-springer.gl.at.ply.gg^
-||year-tim.gl.at.ply.gg^
 ||yeauqqiyooeqwamw.xyz^
 ||yeawqeuuqwsqkaqm.xyz^
 ||yeccaigecimyymyq.xyz^
@@ -53135,6 +53186,7 @@
 ||ymiceusaqwyoqyug.xyz^
 ||ymicweaqsyucyaco.xyz^
 ||ymigkkwqgwaqmwyq.xyz^
+||y.mijk.ru^
 ||ymikkeywwougsqwc.xyz^
 ||ymikycmkykgamoce.xyz^
 ||ymikyiwasgcywiky.xyz^
@@ -54940,6 +54992,7 @@
 ||zbtgzbt.duckdns.org^
 ||z.cdn-886.ru^
 ||zcewmov.com^
+||zc.lobd.ru^
 ||zclouds.icu^
 ||zcmevos.com^
 ||zcnvqpweoriu.click^
